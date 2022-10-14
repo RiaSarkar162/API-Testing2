@@ -1,6 +1,6 @@
 # API-Testing2
 
-## SEE LIVE REPORT:
+## SEE LIVE REPORT: https://riasarkar162.github.io/API-Testing2/
  
 ### -------------------Summary Report --------------------
 TOTAL ITERATIONS - 1                     
